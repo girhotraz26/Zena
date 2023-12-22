@@ -18,4 +18,11 @@
 [Interactive Card](https://girhotraz26.github.io/Interactive-Card/)
 > An interactive alien-themed Welcome Back card that uses arrows and colored buttons in order to change different aspects of the scene.
 
+[Jail Themed Platformer Game](https://studio.code.org/projects/gamelab/cDw47LahN-t3fn5h1ucTPF_HPiJK-Tz5fzOrLlDtAXQ)
+> Help Timmy escape from jail by jumpping on handcuffs and catching keys with the arrows. Avoid the germs!
 
+[Rocket Shooting Game](https://studio.code.org/projects/gamelab/G4A_gxGtv0Q8iB7ig2S57RAywBgqDue9sL4-GnFFic0)
+> Move around the screen as a rocket facing gravity with arrows and shoot bullets by clicking. Try to kill the alien before it gets to home base!
+
+[Rocket Shooting Game](https://studio.code.org/projects/gamelab/G4A_gxGtv0Q8iB7ig2S57RAywBgqDue9sL4-GnFFic0)
+> Move around the screen as a rocket facing gravity with arrows and shoot bullets by clicking. Try to kill the alien before it gets to home base!
