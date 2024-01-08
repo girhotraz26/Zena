@@ -40,4 +40,10 @@
 [Piano App](https://gallery.appinventor.mit.edu/?galleryid=4f54007e-d504-42d6-a277-7408643f3b2f)
 > Realistic piano with notes from C to High C. Try playing a song!
 >
-> DOES NOT RECORD. 
+> DOES NOT RECORD.
+
+[Food Game](https://gallery.appinventor.mit.edu/?galleryid=7cd870a1-cc02-4f3d-b563-9efa394c4f74)
+> Flung the ball around in order to collect the food scattered around the screen to grow. Avoid the germs or you wll die.
+
+[Find the Gold](https://gallery.appinventor.mit.edu/?galleryid=00a62131-adce-4765-9d99-e355532aa935)
+> Fling the ball with your finger to eat the moving food and stay away fom the green germs so you don't get sick!
