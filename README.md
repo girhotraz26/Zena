@@ -49,9 +49,11 @@
 > Fling the ball with your finger to eat the moving food and stay away fom the green germs so you don't get sick!
 
 ### CMU Python
-[Creative Project #1](https://academy.cs.cmu.edu/sharing/orangeHorse1671)
+[Creative Project #1](https://academy.cs.cmu.edu/sharing/forestGreenEagle7586)
+> Created drawings with polygons, ovals, and circles.
+> 
+[Creative Project #2](https://academy.cs.cmu.edu/sharing/orangeHorse1671)
 > Clcik the two buttons and move your mouse around on them to move the fan. Uses functions, mouse vents, and properties.
 
-[Piano App](https://academy.cs.cmu.edu/sharing/forestGreenEagle7586)
-> Created drawings with polygons, ovals, and circles. 
+
 
