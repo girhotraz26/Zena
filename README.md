@@ -43,7 +43,15 @@
 > DOES NOT RECORD.
 
 [Food Game](https://gallery.appinventor.mit.edu/?galleryid=7cd870a1-cc02-4f3d-b563-9efa394c4f74)
-> Flung the ball around in order to collect the food scattered around the screen to grow. Avoid the germs or you wll die.
+> Fling the ball around in order to collect the food scattered around the screen to grow. Avoid the germs or you wll die.
 
 [Find the Gold](https://gallery.appinventor.mit.edu/?galleryid=00a62131-adce-4765-9d99-e355532aa935)
 > Fling the ball with your finger to eat the moving food and stay away fom the green germs so you don't get sick!
+
+### CMU Python
+[Creative Project #1](https://academy.cs.cmu.edu/sharing/orangeHorse1671)
+> Clcik the two buttons and move your mouse around on them to move the fan. Uses functions, mouse vents, and properties.
+
+[Piano App](https://academy.cs.cmu.edu/sharing/forestGreenEagle7586)
+> Created drawings with polygons, ovals, and circles. 
+
