@@ -53,7 +53,10 @@
 > Created drawings with polygons, ovals, and circles.
 > 
 [Creative Project #2](https://academy.cs.cmu.edu/sharing/orangeHorse1671)
-> Clcik the two buttons and move your mouse around on them to move the fan. Uses functions, mouse vents, and properties.
+> Click the two buttons and move your mouse around on them to move the fan. Uses functions, mouse vents, and properties.
+>
+[Creative Project #4](https://academy.cs.cmu.edu/sharing/floralWhiteGiraffe9714)
+> Use the arrows and the meter in the bottom left corner to find the prize before the timer runs out
 
 
 
