@@ -55,6 +55,9 @@
 [Creative Project #2](https://academy.cs.cmu.edu/sharing/orangeHorse1671)
 > Click the two buttons and move your mouse around on them to move the fan. Uses functions, mouse vents, and properties.
 >
+> [Creative Project #3](https://academy.cs.cmu.edu/sharing/burlyWoodCow2367)
+> Move your mouse around to make the kid study and drag your mouse down to drop more books in his pile
+>
 [Creative Project #4](https://academy.cs.cmu.edu/sharing/floralWhiteGiraffe9714)
 > Use the arrows and the meter in the bottom left corner to find the prize before the timer runs out
 
