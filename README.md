@@ -2,7 +2,7 @@
 
 ![OctocatFinal](https://github.com/girhotraz26/Zena/assets/146844047/b0c9fe0e-70aa-4b38-91f2-12ee99c534af)
 
- - Part of FRC Team 1119 :robot:
+ - Part of FRC Team 1153 :robot:
  - Sophomore @ WHS 🏫
  - Learning to code 💻
  - I like listening to music 🎵
