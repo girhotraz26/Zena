@@ -60,6 +60,11 @@
 >
 [Creative Project #4](https://academy.cs.cmu.edu/sharing/floralWhiteGiraffe9714)
 > Use the arrows and the meter in the bottom left corner to find the prize before the timer runs out
-
+>
+[Creative Project #5](https://academy.cs.cmu.edu/sharing/greenLobster5071)
+> Click the color buttons to chnage colors, drag on the canvas to draw
+> Click the last box to delete your work, click the eraser to erase
+> Hold the + and - buttons to increase and decrease the brush size
+> This project used nested conditionals, compound conditionals, and the onKeyHold event
 
 
